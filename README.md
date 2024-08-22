@@ -4,6 +4,8 @@ SHARC - Runners is a 2D **Multiplayer** Platformer racing game which was designe
 
 ## Running the Game - [Through Unity]
 
+![SHARC Runners](https://github.com/user-attachments/assets/1cf6b5c9-bd9c-4fcb-840e-e12e9e23d757)
+
 Steps: 
 1. Download the project from Github
 2. Open Unity Hub
