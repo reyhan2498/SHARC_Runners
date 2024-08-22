@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Canvas
+  - meterContainer
+  - EnemyProjectile
+  - Enemy
+  - PlayerProjectile
+  - Ground
+  - WinRecord
+  - Wall
+  - Hook
+  - Sabotage
+  - SabotageController
+  - HUD
+  - FinishRecord
+  - PlacementManager
+  - Scoreboard
+  - FinishedText
+  - Meter
+  - Counter
+  - MapLight
+  - Node
+  - CheckPoint
+  - ProjectileAbility
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HighestUI
+  - Water
+  - UI
+  - CanvasUI
+  - Ground
+  - Player
+  - Enemy
+  - Missile
+  - Spectators
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 93182469
+    locked: 0
+  - name: Player
+    uniqueID: 138941849
+    locked: 0
+  - name: Foreground
+    uniqueID: 1122536545
+    locked: 0
