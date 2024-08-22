@@ -1,6 +1,6 @@
 # SHARC-Runners
 
-SHARC - Runners is a 2D **Multiplayer** Platformer racing game which was designed in Unity.
+SHARC_Runners is a 2D **Multiplayer** Platformer racing game which was designed in Unity.
 
 ## Running the Game - [Through Unity]
 
