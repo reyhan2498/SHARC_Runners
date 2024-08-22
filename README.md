@@ -25,6 +25,8 @@ Steps:
 
 ## Controls
 
+![Screenshot_20240822_134906_2021_S2_(52)_SHARC Runners](https://github.com/user-attachments/assets/d28cbcc1-f2b8-48c9-8810-458383c539e8)
+
 Basic Movement:
 - A/D or Left/Right arrow keys to move left and right
 - Space bar to Jump/Double Jump/Wall Jump
@@ -36,6 +38,8 @@ Basic Movement:
 
 Sabotage:
 - Glowing Orange Crates can be picked up to hinder other players
+  
+![Screenshot_20240822_134834_2021_S2_(52)_SHARC Runners](https://github.com/user-attachments/assets/b0b77499-72a4-4476-b2a1-735d6791ed2c)
 
 Ability:
 - Each Character has a special unique ability 
